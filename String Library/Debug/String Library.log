@@ -1,0 +1,24 @@
+﻿  String Library.cpp
+C:\Users\HP\source\repos\String Library\String Library\String Library.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(24,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(28,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(37,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(59,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(61,33): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(73,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(75,33): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(85,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(86,31): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(94,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(110,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(125,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(129,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(143,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(156,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(171,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(205,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(218,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(235,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(264,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\source\repos\String Library\String Library\clsString.h(361,29): warning C4018: '<': signed/unsigned mismatch
+  String Library.vcxproj -> C:\Users\HP\source\repos\String Library\Debug\String Library.exe
